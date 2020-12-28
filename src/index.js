@@ -2,7 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import { ButtonToolbar, MenuItem, DropdownButton, Dropdown, Button } from 'react-bootstrap';
+// import { ButtonToolbar, DropdownButton, Dropdown, Button, MenuItem } from 'react-bootstrap';
+import { ButtonToolbar, DropdownButton, Dropdown, Button } from 'react-bootstrap';
 
 class Box extends React.Component {
 
